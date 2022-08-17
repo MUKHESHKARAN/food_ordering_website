@@ -1,2 +1,17 @@
 # food_ordering_website
 This is an Online Food Ordering Website Application built using HTML, CSS, JavaScript, JSP files and My SQL.
+![PIC 1](https://user-images.githubusercontent.com/111404303/185022903-0f9208b1-fca0-4dfd-8866-f788b2aa3690.png)
+![pic 2](https://user-images.githubusercontent.com/111404303/185022924-591e20c7-829f-48c0-83d9-75fef470372b.png)
+![pic 3](https://user-images.githubusercontent.com/111404303/185022959-7fa99151-608d-4bc6-a845-cea9a688d1f2.png)
+![pic 4](https://user-images.githubusercontent.com/111404303/185022970-14f3f459-9e10-4be1-a4ee-d422046e4de6.png)
+![pic 5](https://user-images.githubusercontent.com/111404303/185022982-690a0608-e34b-40fd-886b-9ebbfebaf1d6.png)
+![pic 6](https://user-images.githubusercontent.com/111404303/185022994-20f28498-ae4f-48e3-9bee-fbf55d208864.png)
+![pic 7](https://user-images.githubusercontent.com/111404303/185022998-e2b079bf-cbda-4988-8c84-de88c6e1cc20.png)
+![pic 8](https://user-images.githubusercontent.com/111404303/185023003-b3f7ef05-8077-49bb-b29c-de750cf51578.png)
+![DB4](https://user-images.githubusercontent.com/111404303/185023016-9c83baac-5ac4-41e0-89ae-20a51ab02861.png)
+![DB5](https://user-images.githubusercontent.com/111404303/185023020-fdaad51b-1c81-465e-99f8-377169ee4ee9.png)
+![DB6](https://user-images.githubusercontent.com/111404303/185023024-45c7d544-0876-483a-8d7b-bcdc39633af3.png)
+![DB7](https://user-images.githubusercontent.com/111404303/185023026-231ac917-6b45-49e1-bcfa-c287ff4ffbaa.png)
+![DB1](https://user-images.githubusercontent.com/111404303/185023028-6da2d820-5f34-44d8-83d1-88b85b778ab0.png)
+![DB2](https://user-images.githubusercontent.com/111404303/185023031-15f80df5-9e09-4dc7-af22-4c721202ad2d.png)
+![DB3](https://user-images.githubusercontent.com/111404303/185023036-390be363-e246-4c8d-a577-c9aaf5bbc251.png)
